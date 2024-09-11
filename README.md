@@ -1,7 +1,7 @@
 # SIH-1706-GAIL-CHATBOT
 Team Name- Unibots
-Problem Statement: Intelligent Enterprise Assistant: Enhancing Organizational Efficiency through AI-driven Chatbot Integration
-Problem ID- 1706
+<br> Problem Statement: Intelligent Enterprise Assistant: Enhancing Organizational Efficiency through AI-driven Chatbot Integration
+<br>Problem ID- 1706
 
 ## Overview
 This chatbot is designed to deliver domain-specific knowledge, providing accurate responses to queries related to HR policies, IT support, and company events. The chatbot also features **advanced document processing** capabilities, enabling quick summarization and extraction of key information from uploaded documents. Built for **scalability**, the system handles multiple users simultaneously, ensuring optimized response times of **under 5 seconds**.
@@ -36,5 +36,5 @@ This chatbot is designed to deliver domain-specific knowledge, providing accurat
 - **Authentication**: The chatbot supports 2FA via email, adding an extra layer of security for employee access.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
